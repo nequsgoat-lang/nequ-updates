@@ -1,0 +1,17 @@
+{
+  "latest_version": "1.0.0",
+  "min_supported_version": "1.0.0",
+  "release_date": "2026-10-02",
+  "download_url": "https://github.com/BanAnekOki/nequ-releases/releases/latest/download/NEQU-Setup-1.0.0.exe",
+  "changelog": "- Dodano Hydra Launcher z 69 000+ gier\n- System automatycznych aktualizacji\n- Pobieranie przez BitTorrent i HTTP\n- Nowe źródła: FitGirl, DODI, Xatab, SteamRip (GitHub mirrors)\n- Wyszukiwanie gier z grupowaniem po tytule\n- Zakładka Wersja aplikacji\n- SQLite zamiast 88MB JSON dla szybkich wyników\n- Poprawki wydajności i stabilności",
+  "is_mandatory": false,
+  "file_size_mb": 97,
+  "sha256": "",
+  "versions_history": [
+    {
+      "version": "1.0.0",
+      "release_date": "2026-10-02",
+      "changelog": "- Pierwsze stabilne wydanie NEQU\n- Hydra Launcher z pobieraniem gier (69 000+ tytułów)\n- Monitor systemu z wykresami CPU/RAM/GPU\n- Menedżer plików z podglądem\n- Klient Torrent (WebTorrent)\n- Nequcord — modyfikacja Discord\n- Menedżer haseł z szyfrowaniem\n- Authenticator 2FA (TOTP)\n- Kopia zapasowa\n- Nakładka do gier z FPS/CPU/RAM\n- Optymalizacja systemu\n- Prywatność / OnionShare\n- System automatycznych aktualizacji"
+    }
+  ]
+}
