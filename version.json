@@ -1,1 +1,27 @@
-{"versions_history":[{"changelog":"Naprawiono","version":"1.0.12","release_date":"2026-10-05"},{"changelog":"Naprawiono","version":"1.0.11","release_date":"2026-10-05"}],"release_date":"2026-10-05","min_supported_version":"1.0.0","sha256":"","latest_version":"1.0.12","download_url":"https://github.com/nequsgoat-lang/nequ-updates/releases/download/v1.0.0/NEQU-Setup-1.0.12.exe","file_size_mb":102,"changelog":"Naprawiono Rozpakuj z postepem. Naprawiono blokade pliku.","is_mandatory":false}
+{
+    "versions_history":  [
+                             {
+                                 "changelog":  "Naprawiono auto-sprawdzanie aktualizacji po restarcie. Naprawiono rozmiar pliku w przycisku Rozpakuj.",
+                                 "version":  "1.0.13",
+                                 "release_date":  "2026-10-05"
+                             },
+                             {
+                                 "changelog":  "Naprawiono Rozpakuj z postepem. Naprawiono blokade pliku.",
+                                 "version":  "1.0.12",
+                                 "release_date":  "2026-10-05"
+                             },
+                             {
+                                 "changelog":  "Naprawiono",
+                                 "version":  "1.0.11",
+                                 "release_date":  "2026-10-05"
+                             }
+                         ],
+    "release_date":  "2026-10-05",
+    "min_supported_version":  "1.0.0",
+    "sha256":  "",
+    "latest_version":  "1.0.13",
+    "download_url":  "https://github.com/nequsgoat-lang/nequ-updates/releases/download/v1.0.0/NEQU-Setup-1.0.13.exe",
+    "file_size_mb":  102,
+    "changelog":  "Naprawiono auto-sprawdzanie aktualizacji po restarcie. Naprawiono rozmiar pliku w przycisku Rozpakuj.",
+    "is_mandatory":  false
+}
