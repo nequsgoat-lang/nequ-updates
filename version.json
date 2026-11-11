@@ -1,7 +1,12 @@
 {
     "versions_history":  [
                              {
-                                 "changelog":  "Fix: klient torrent (brakujacy modul webtorrent), optymalizacja - poprawne liczenie miejsca, lepsze komunikaty bledow archiwum",
+                                 "changelog":  "Fix: klient torrent nie seeduje po pobraniu - zatrzymuje sie automatycznie",
+                                 "version":  "1.0.25",
+                                 "release_date":  "2026-11-11"
+                             },
+                             {
+                                 "changelog":  "Fix: klient torrent (brakujacy modul webtorrent), optymalizacja miejsca, komunikaty bledow",
                                  "version":  "1.0.24",
                                  "release_date":  "2026-11-11"
                              },
@@ -9,19 +14,14 @@
                                  "changelog":  "Fix: cache-busting aktualizacji, blokada pliku przy rozpakowaniu",
                                  "version":  "1.0.23",
                                  "release_date":  "2026-11-11"
-                             },
-                             {
-                                 "changelog":  "Fix: zwolnienie uchwytu pliku przed rozpakowaniem",
-                                 "version":  "1.0.22",
-                                 "release_date":  "2026-11-11"
                              }
                          ],
     "release_date":  "2026-11-11",
     "min_supported_version":  "1.0.0",
-    "sha256":  "5f85cac4374c4ceef760d631d72544a3178622184df42cba9d1baf309defef56",
-    "latest_version":  "1.0.24",
-    "download_url":  "https://github.com/nequsgoat-lang/nequ-updates/releases/download/v1.0.0/NEQU-Setup-1.0.24.exe",
+    "sha256":  "",
+    "latest_version":  "1.0.25",
+    "download_url":  "https://github.com/nequsgoat-lang/nequ-updates/releases/download/v1.0.0/NEQU-Setup-1.0.25.exe",
     "file_size_mb":  98,
-    "changelog":  "Fix: klient torrent - naprawiono brakujacy modul webtorrent. Fix: optymalizacja systemu - poprawne liczenie zwolnionego miejsca. Fix: lepsze komunikaty bledow przy rozpakowywaniu.",
+    "changelog":  "Fix: klient torrent - po pobraniu nie seeduje (zatrzymuje sie automatycznie po 100%)",
     "is_mandatory":  false
 }
